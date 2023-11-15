@@ -1,0 +1,42 @@
+#aa{
+
+    margin-left: 100px;
+gap: 60px;
+  /* background-color: skyblue; */
+
+    
+}
+.bb{
+margin-left: 900px;
+margin-top: -400px;
+
+
+}
+
+/* .cc{
+    background-image: url(/images/a5.JPG);
+    height: 400px;
+     width: 100%;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+  
+     
+} */
+
+.l1{
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/images/l1.jpg);
+
+
+height: 200px;
+width: 100%;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+
+.map{
+    margin-left: 900px;
+  margin-top: -1600px;
+}
